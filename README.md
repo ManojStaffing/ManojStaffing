@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Manoj Prajapati
-- 👀 I’m sourcing person who are looking for new job opportunities in USA only.
+- 👀 I’m Looking for new opportunity as Data Analyst.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on manojoffice525@gmail.com ||+1(430)240-8727
+- 📫 You can reach me on manojoffice525@gmail.com || 8604890525
 
 <!---
 ManojStaffing/ManojStaffing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
