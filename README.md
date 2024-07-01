@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Manoj Prajapati, an HR Data Analyst with strong skills in data analysis.
+I'm Manoj Prajapati, an Data Analyst with strong skills in data analysis.
 
 - 🌱 I’m currently learning advanced data visualization techniques
 - 👯 I’m looking to collaborate on projects involving HR analytics
